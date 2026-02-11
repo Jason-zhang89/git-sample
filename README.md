@@ -1,2 +1,2 @@
 # git-sample
-this ias a sample 
+this is a sample 
